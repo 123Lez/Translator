@@ -5,8 +5,8 @@
 
 	function getWord($word)
 	{
-		$app_id = "12533548";
-        $app_key = "236ad2a6ad9eb6d509a89e264b96fce8";
+		$app_id = "";//Enter your own ID here
+        $app_key = "";//Enter your own Key here
 		$url = '///https://od-api.oxforddictionaries.com/api/v1';
 		
 		$language = "en";
